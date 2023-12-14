@@ -1,6 +1,5 @@
 # Olá eu sou o Lucas Oliveira 💫
-Apaixonado por programação e tecnologia. Formado em Análise e Desenvolvimento de Sistemas.
-
+Sou formado em Análise e Desenvolvimento de Sistemas. A arte da programação é o que mais me impressiona na área da tecnologia. 
 
 ## 🌐 Redes Sociais
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lucas.oli_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucas-oliveira-farias/) 
