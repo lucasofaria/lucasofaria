@@ -1,5 +1,5 @@
 # Olá eu sou o Lucas Oliveira 💫
-Sou desenvolvedor com experiência prática na criação de aplicativos móveis que oferecem soluções funcionais e atraentes. Domino tecnologias como JavaScript, TypeScript, React Native, React, Git / GitHub, APIs REST, HTML, CSS, SQL, Android Studio, Figma e Firebase.
+Sou desenvolvedor Mobile com experiência prática na criação de aplicativos móveis que oferecem soluções funcionais e atraentes. Domino tecnologias como JavaScript, TypeScript, React Native, React, Git / GitHub, APIs REST, HTML, CSS, SQL, Android Studio, Figma e Firebase.
 
 Sempre fui curioso em entender como as coisas funcionam, o que despertou meu interesse pela programação. Tenho me dedicado ao aprendizado contínuo e ao desenvolvimento prático para consolidar minha transição para a área de tecnologia. 
 
